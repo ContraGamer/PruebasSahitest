@@ -1,0 +1,8 @@
+com\group\sahitest\demo\definitions\BooksDefinitions.class
+com\group\sahitest\demo\runners\RunnerSahitest.class
+com\group\sahitest\demo\steps\LoginSteps.class
+com\group\sahitest\demo\pageObjects\BooksPageObject.class
+com\group\sahitest\demo\steps\BooksSteps.class
+com\group\sahitest\demo\pageObjects\LoginPageObject.class
+com\group\sahitest\demo\definitions\LoginDefinitions.class
+com\group\sahitest\demo\AppTest.class
